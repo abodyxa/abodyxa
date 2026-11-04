@@ -72,54 +72,64 @@ me.say_hi()
 
 **Languages**
 <p>
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,bash,solidity&theme=dark" />
+  <img src="https://img.shields.io/badge/Python-161b22?style=for-the-badge&logo=python&logoColor=FFD43B" alt="Python"/>
+  <img src="https://img.shields.io/badge/C-161b22?style=for-the-badge&logo=c&logoColor=A8B9CC" alt="C"/>
+  <img src="https://img.shields.io/badge/C++-161b22?style=for-the-badge&logo=cplusplus&logoColor=00599C" alt="C++"/>
+  <img src="https://img.shields.io/badge/Bash-161b22?style=for-the-badge&logo=gnubash&logoColor=4EAA25" alt="Bash"/>
 </p>
 
 **Cybersecurity**
 <p>
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Hack_The_Box-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00"/>
+  <img src="https://img.shields.io/badge/Kali_Linux-161b22?style=for-the-badge&logo=kalilinux&logoColor=557C94" alt="Kali Linux"/>
+  <img src="https://img.shields.io/badge/Wireshark-161b22?style=for-the-badge&logo=wireshark&logoColor=1679A7" alt="Wireshark"/>
+  <img src="https://img.shields.io/badge/Metasploit-161b22?style=for-the-badge&logo=metasploit&logoColor=2596CD" alt="Metasploit"/>
+  <img src="https://img.shields.io/badge/Burp_Suite-161b22?style=for-the-badge&logo=burpsuite&logoColor=FF6633" alt="Burp Suite"/>
+  <img src="https://img.shields.io/badge/Nmap-161b22?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjNEZDM0Y3IiBzdHJva2Utd2lkdGg9IjIiPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjkiLz48Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSI0Ii8%2BPHBhdGggZD0iTTEyIDF2NU0xMiAxOHY1TTEgMTJoNU0xOCAxMmg1Ii8%2BPC9zdmc%2B" alt="Nmap"/>
+  <img src="https://img.shields.io/badge/TryHackMe-161b22?style=for-the-badge&logo=tryhackme&logoColor=FFFFFF" alt="TryHackMe"/>
+  <img src="https://img.shields.io/badge/Hack_The_Box-161b22?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" alt="Hack The Box"/>
 </p>
 
 **Game Dev**
 <p>
-  <img src="https://skillicons.dev/icons?i=unity,godot,blender&theme=dark" />
-  <img src="https://img.shields.io/badge/Pygame-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B" height="48"/>
+  <img src="https://img.shields.io/badge/Unity-161b22?style=for-the-badge&logo=unity&logoColor=FFFFFF" alt="Unity"/>
+  <img src="https://img.shields.io/badge/Godot-161b22?style=for-the-badge&logo=godotengine&logoColor=478CBF" alt="Godot"/>
+  <img src="https://img.shields.io/badge/Blender-161b22?style=for-the-badge&logo=blender&logoColor=F5792A" alt="Blender"/>
+  <img src="https://img.shields.io/badge/Pygame-161b22?style=for-the-badge&logo=python&logoColor=FFD43B" alt="Pygame"/>
 </p>
 
 **Blockchain**
 <p>
-  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bitcoin-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Solidity-161b22?style=for-the-badge&logo=solidity&logoColor=FFFFFF" alt="Solidity"/>
+  <img src="https://img.shields.io/badge/Ethereum-161b22?style=for-the-badge&logo=ethereum&logoColor=8C8CFF" alt="Ethereum"/>
+  <img src="https://img.shields.io/badge/Web3.js-161b22?style=for-the-badge&logo=web3dotjs&logoColor=F16822" alt="Web3.js"/>
+  <img src="https://img.shields.io/badge/Bitcoin-161b22?style=for-the-badge&logo=bitcoin&logoColor=F7931A" alt="Bitcoin"/>
 </p>
 
 **AI / Machine Learning**
 <p>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" height="48"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" height="48"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" height="48"/>
+  <img src="https://img.shields.io/badge/PyTorch-161b22?style=for-the-badge&logo=pytorch&logoColor=EE4C2C" alt="PyTorch"/>
+  <img src="https://img.shields.io/badge/TensorFlow-161b22?style=for-the-badge&logo=tensorflow&logoColor=FF6F00" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/scikit--learn-161b22?style=for-the-badge&logo=scikitlearn&logoColor=F7931E" alt="scikit-learn"/>
+  <img src="https://img.shields.io/badge/NumPy-161b22?style=for-the-badge&logo=numpy&logoColor=4DABCF" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Jupyter-161b22?style=for-the-badge&logo=jupyter&logoColor=F37626" alt="Jupyter"/>
 </p>
 
 **Data**
 <p>
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Excel-161b22?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHJlY3QgeD0iMiIgeT0iMiIgd2lkdGg9IjIwIiBoZWlnaHQ9IjIwIiByeD0iMyIgZmlsbD0iIzIxQTM2NiIvPjxwYXRoIGQ9Ik03IDZsMTAgMTJNMTcgNkw3IDE4IiBzdHJva2U9IiNmZmYiIHN0cm9rZS13aWR0aD0iMi42IiBzdHJva2UtbGluZWNhcD0icm91bmQiLz48L3N2Zz4%3D" alt="Excel"/>
+  <img src="https://img.shields.io/badge/Google_Sheets-161b22?style=for-the-badge&logo=googlesheets&logoColor=34A853" alt="Google Sheets"/>
+  <img src="https://img.shields.io/badge/Pandas-161b22?style=for-the-badge&logo=pandas&logoColor=FFFFFF" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/MySQL-161b22?style=for-the-badge&logo=mysql&logoColor=4479A1" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/SQLite-161b22?style=for-the-badge&logo=sqlite&logoColor=66B2E0" alt="SQLite"/>
 </p>
 
 **Tools**
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,git,github,vscode,docker&theme=dark" />
+  <img src="https://img.shields.io/badge/Linux-161b22?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Git-161b22?style=for-the-badge&logo=git&logoColor=F05032" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/VS_Code-161b22?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZD0iTTE3IDEuNUwyMi41IDR2MTZMMTcgMjIuNSA2LjUgMTNsLTQgMy4yTDEgMTVWOWwxLjUtMS4yIDQgMy4yTDE3IDEuNXpNMTcgN2wtNiA1IDYgNVY3eiIgZmlsbD0iIzIzQTlGMiIvPjwvc3ZnPg%3D%3D" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/Docker-161b22?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker"/>
 </p>
 
 ---
